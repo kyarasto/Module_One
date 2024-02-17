@@ -17,7 +17,11 @@ To load the code found in the _moduleIOneInstall.ino into file the ESP32...
 
 - Create a new sketch and add in the code in the _moduleIOneInstall.ino file of this repo and upload onto your ESP32. 
 - *NOTE* : If you have errors uploading make sure to go to "Tools" and then "Upload Speed" and change the upload speed to 115200.
-   
+
+#### Battery Conservation
+A main functionality of the program is it's ability to enter sleep mode to conserve the battery level which is displayed on the screen. To enter sleep mode, click the button on the left side of the ESP32 as shown below. To turn the screen back on, click the reset button on the right, also shown below. 
+
+Another way to conserve battery is dimming the screen. To dim the screen you can change the second parameter of ledcWrite(0, 250). The higher you make it the brighter it becomes and the lower, the darker. The image on the left has ledcWrite(0, 250) and the image on the right has ledcWrite(0, 5).
 
 
 
