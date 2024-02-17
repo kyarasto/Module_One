@@ -9,9 +9,18 @@ LoveBot is a generative art piece that randomizes the position of stars and text
 
 ## How To Use
 
+#### Loading the code onto the TTGO
+
+To load the code found in the 
+   
+
+
+
+![TTGO with different brighness settings](https://github.com/kyarasto/Module_One/assets/113846467/f01b6ae2-dde7-4938-b8f7-2270715dc31d)
 
 ## User Interface
-![Untitled drawing (1)](https://github.com/kyarasto/Module_One/assets/113846467/f01b6ae2-dde7-4938-b8f7-2270715dc31d)
+
+
 
 
 ## Hardware
