@@ -11,9 +11,12 @@ LoveBot is a generative art piece that randomizes the position of stars and text
 
 #### Loading the code onto the TTGO
 
-To load the code found in the _moduleIOneInstall.ino into file the ESP32, open the Ardunio IDE and install the esp32 by Espressif in the boards manager. Then install the TFT_eSPI libaray in "Manage Libraries" found in the Tools tab.
+To load the code found in the _moduleIOneInstall.ino into file the ESP32...
+- Open the Ardunio IDE and install the esp32 by Espressif in the boards manager
+- Then install the TFT_eSPI libaray in "Manage Libraries" found in the Tools tab.
 
-Once the steps above are done you can create a new sketch and add the code in the _moduleIOneInstall.ino file of this repo and upload onto your ESP32. If you have trouble or errors with the upload make sure to go to "Tools" and then "Upload Speed" and change the upload speed to 115200.
+- Create a new sketch and add in the code in the _moduleIOneInstall.ino file of this repo and upload onto your ESP32. 
+- *NOTE* : If you have errors uploading make sure to go to "Tools" and then "Upload Speed" and change the upload speed to 115200.
    
 
 
