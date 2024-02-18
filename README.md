@@ -21,7 +21,7 @@ To load the code found in the _moduleIOneInstall.ino file into the ESP32...
 - *NOTE* : If you have errors uploading make sure to go to "Tools" and then "Upload Speed" and change the upload speed to 115200.
 
 #### Customizing the Code
-Apart from changing the brightness of the screen, you can customize the colors of everything, paramaters of the positioning or even create more stars. To create more starts just change the parameters of the for loop that creates the stars, the more times the loop runs the more stars are created.  
+Apart from changing the brightness of the screen you can customize the colors of everything, paramaters of the positioning, or even create more stars. To create more stars just change the parameters of the for loop that creates the stars, the more times the loop runs the more stars are created.  
 
 #### Adding the battery to LoveBot
 
