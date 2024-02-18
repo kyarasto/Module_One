@@ -3,7 +3,7 @@ LoveBot is a generative art piece that randomizes the position of stars and text
 
 #### Supplies
 
-| ESP32 TTGO T-display  | Crimp pin connectors  | Heat gun | Popsicle stick  |
+| ESP32 TTGO T-display  | Crimp pin connectors  | Heat gun    | Popsicle stick  |
 | --------------------- | ---------------------- | -------- | ---------------- |
 | **Battery**               | **Wire crimper**           | **Soldering iron** | **String**  |
 | **Wires**                 | **Heat shrink**            | **Paper**    | **Markers**  |
