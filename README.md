@@ -35,9 +35,17 @@ To load the code found in the _moduleIOneInstall.ino file into the ESP32...
    
 ![Attaching the battery and the lovebot](https://github.com/kyarasto/Module_One/assets/113846467/13965eb3-8d40-46e8-b09c-eeba46516707)
 
-#### Creating the envelope 
+#### Creating the envelope and Installation
 
-**The AI files of the envelope created by Eris Gao can be found in this repo's files**
+**The AI files of the envelope created by Eris Gao can be found and downloaded in this repo's files**
+1) Once you have the envelope printed and folded (as seen in image 1),  place the LoveBot into the envelope with the screen in the hole and tape it closed. Then go crazy! Decorate it however and with whatever you want :) 
+
+2) Then you will need string, a popsicle stick and something to poke a hole into the envelope wherever you choose. wrap the string around the popsicle stick and tie it. Then string the thread through the hole in the envelope and tie it. This should all look like image 1. 
+
+3) Now you can do the installation and use the popsicle to hang your LoveBot (as shown in image 2).
+
+
+![Creating the envelope and installation](https://github.com/kyarasto/Module_One/assets/113846467/06b2abbd-d2aa-448b-b57e-6c61314ae900)
 
 
 
