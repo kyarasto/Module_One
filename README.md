@@ -1,6 +1,22 @@
 ## LoveBot 💘
 LoveBot is a generative art piece that randomizes the position of stars and text on the screen, wishing the viewer a happy valentines day! It was created to spead joy for those who need a bit of love. It was built using an ESP32 TTGO T-display and a battery. Below you can find all of the information to reproduce LoveBot.
 
+#### Supplies
+
+| ESP32 TTGO T-display  | Crimp pin connectors  | Heat gun | Popsicle stick  |
+| --------------------- | ---------------------- | -------- | ---------------- |
+| **Battery**               | **Wire crimper**           | **Soldering iron** | **String**  |
+| **Wires**                 | **Heat shrink**            | **Paper**    | **Markers**  |
+
+
+| First Header  | Second Header | Third Header | Fourth Header |
+| ------------- | ------------- | ------------ | ------------- |
+| ESP32 TTGO T-display  | Crimp pin connectors  | Heat gun | Popsicle stick  |
+| Battery  | Wire crimper | Soldering iron | String  |
+| Wires  | Heat shrink  | Paper | Markers  |
+
+
+
 #### Battery Conservation
 A main functionality of the program is it's ability to enter sleep mode to conserve the battery level (which is displayed on the screen). To enter sleep mode, click the button on the left side of the ESP32 as shown below. To turn the screen back on, click the reset button on the right, also shown below. 
 
@@ -49,16 +65,3 @@ Apart from changing the brightness of the screen you can customize the colors of
 
 
 ![Creating the envelope and installation](https://github.com/kyarasto/Module_One/assets/113846467/06b2abbd-d2aa-448b-b57e-6c61314ae900)
-
-
-
-## User Interface
-
-
-
-
-## Hardware
-
-
-## Software
-- arduino 
