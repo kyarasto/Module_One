@@ -1,7 +1,7 @@
 ## LoveBot 💘
 LoveBot is a generative art piece that randomizes the position of stars and text on the screen, wishing the viewer a happy valentines day! It was created to spead joy for those who need a bit of love. It was built using an ESP32 TTGO T-display and a battery. Below you can find all of the information to reproduce LoveBot.
 
-#### Supplies
+#### Hardware Supplies
 
 | ESP32 TTGO T-display  | Crimp pin connectors  | Heat gun    | Popsicle stick  |
 | :---  | :---  | :---  | :---  |
