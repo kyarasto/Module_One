@@ -49,7 +49,7 @@ Apart from changing the brightness of the screen you can customize the colors of
 #### Creating the envelope and Installation
 
 **The AI files of the envelope created by Eris Gao can be found and downloaded in this repo's files**
-1) Once you have the envelope printed and folded, go crazy! Decorate it however and with whatever you want :) Then place the LoveBot into the envelope with the screen in the hole and tape it closed (as seen in image 1).
+1) Once you have the envelope printed and folded, go crazy! Decorate it however and with whatever you want :) Then place the LoveBot into the envelope with the screen facing outside the cutout and tape it closed (as seen in image 1).
 
 2) Then you will need string, a popsicle stick and something to poke a hole into the envelope wherever you choose. wrap the string around the popsicle stick and tie it. Then string the thread through the hole in the envelope and tie it. This should all look like image 1. 
 
