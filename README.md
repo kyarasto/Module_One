@@ -35,6 +35,11 @@ To load the code found in the _moduleIOneInstall.ino file into the ESP32...
    
 ![Attaching the battery and the lovebot](https://github.com/kyarasto/Module_One/assets/113846467/13965eb3-8d40-46e8-b09c-eeba46516707)
 
+#### Creating the envelope 
+
+**The AI files of the envelope created by Eris Gao can be found in this repo's files**
+
+
 
 ## User Interface
 
