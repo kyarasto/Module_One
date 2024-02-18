@@ -9,18 +9,15 @@ Another way to conserve battery is dimming the screen. To dim the screen you can
 ![TTGO with different brighness settings](https://github.com/kyarasto/Module_One/assets/113846467/f01b6ae2-dde7-4938-b8f7-2270715dc31d)
 
 
-## About this Document
-
-
-## How To Use
+## Reproducing LoveBot
 
 #### Loading the code onto the TTGO
 
 To load the code found in the _moduleIOneInstall.ino file into the ESP32...
-- Open the Ardunio IDE and install the esp32 by Espressif in the boards manager
-- Then install the TFT_eSPI libaray in "Manage Libraries" found in the Tools tab.
+- Open the Ardunio IDE and install the esp32 by Espressif in the boards manager.
+- Then install the TFT_eSPI libaray in "Manage Libraries" found in the Tools tab to be able to create sprites.
 
-- Create a new sketch and add in the code in the _moduleIOneInstall.ino file of this repo and upload onto your ESP32. 
+- Create a new sketch. Add the code in the _moduleIOneInstall.ino file of this repo to the sketch and upload it onto your ESP32. 
 - *NOTE* : If you have errors uploading make sure to go to "Tools" and then "Upload Speed" and change the upload speed to 115200.
 
 #### Adding the battery to LoveBot
