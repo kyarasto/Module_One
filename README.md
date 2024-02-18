@@ -2,7 +2,7 @@
 LoveBot is a generative art piece that randomizes the position of stars and text on the screen, wishing the viewer a happy valentines day! It was created to spead joy for those who need a bit of love. It was built using an ESP32 TTGO T-display and a battery. Below you can find all of the information to reproduce LoveBot.
 
 #### Battery Conservation
-A main functionality of the program is it's ability to enter sleep mode to conserve the battery level which is displayed on the screen. To enter sleep mode, click the button on the left side of the ESP32 as shown below. To turn the screen back on, click the reset button on the right, also shown below. 
+A main functionality of the program is it's ability to enter sleep mode to conserve the battery level (which is displayed on the screen). To enter sleep mode, click the button on the left side of the ESP32 as shown below. To turn the screen back on, click the reset button on the right, also shown below. 
 
 Another way to conserve battery is dimming the screen. To dim the screen you can change the second parameter of ledcWrite(0, 250). The higher you make it the brighter it becomes and the lower, the darker. The image on the left has ledcWrite(0, 250) and the image on the right has ledcWrite(0, 5).
 
