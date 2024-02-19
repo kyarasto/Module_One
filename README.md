@@ -60,7 +60,9 @@ Apart from changing the brightness of the screen you can customize the colors of
 
 #### Video
 
-The [video](https://youtube.com/shorts/1NgUFZmwixI?feature=share) shows the full installation!
+The [video](https://youtube.com/shorts/1NgUFZmwixI?feature=share) shows the full installation and this [blog](https://kyarasto.github.io/ModuleOneBlog/) tells you more about my artistic vision!
 
 Thank you for the support of Mark Santolucito and Eris Gao in creating an amazing installation!
+
+
 
