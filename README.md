@@ -58,7 +58,7 @@ Apart from changing the brightness of the screen you can customize the colors of
 
 ![Creating the envelope and installation](https://github.com/kyarasto/Module_One/assets/113846467/06b2abbd-d2aa-448b-b57e-6c61314ae900)
 
-#### Video
+#### Video and Blog
 
 The [video](https://youtube.com/shorts/1NgUFZmwixI?feature=share) shows the full installation and this [blog](https://kyarasto.github.io/ModuleOneBlog/) tells you more about my artistic vision!
 
