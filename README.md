@@ -60,5 +60,7 @@ Apart from changing the brightness of the screen you can customize the colors of
 
 #### Video
 
-The video below shows the full installation!
-[Installation](https://youtube.com/shorts/1NgUFZmwixI?feature=share)
+The [video](https://youtube.com/shorts/1NgUFZmwixI?feature=share) shows the full installation!
+
+Thank you for the support of Mark Santolucito and Eris Gao in creating an amazing installation!
+
