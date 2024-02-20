@@ -1,12 +1,14 @@
-#include <TFT_eSPI.h>
-//download as zip and add to libraries folder in Arduino folder https://github.com/pangodream/18650CL
+// ESP32 TTGO T1 power demo by Mark Santolucito used
+// download as zip and add to libraries folder in Arduino folder https://github.com/pangodream/18650CL
 #include <Pangodream_18650_CL.h>
-#include <SPI.h>
 
 #define ADC_PIN 34
 #define CONV_FACTOR 1.8
 #define READS 20
 Pangodream_18650_CL BL(ADC_PIN, CONV_FACTOR, READS);
+
+#include <TFT_eSPI.h>
+#include <SPI.h>
 
 TFT_eSPI tft = TFT_eSPI();  // Invoke library, pins defined in User_Setup.h
 #define BUTTON_PIN_BITMASK 0x800000000 // 2^35 in hex
@@ -71,7 +73,5 @@ void drawStar(int x, int y, int star_color) {
   
   img.pushSprite(x, y, TFT_TRANSPARENT); // display sprite at random coordinates!
   img.deleteSprite(); // delete sprite to free memory
-
-// ESP32 TTGO T1 power demo by Mark Santolucito used
 
 }
